@@ -4,7 +4,7 @@ Welcome to the **Linear Algebra** repository! This repository contains comprehen
 
 ## 📚 Contents
 
-### [01. Overview of Linear Algebra]([https://github.com/USERNAME/REPOSITORY_NAME/tree/main/01.%20Overview%20of%20Linear%20Algebra](https://github.com/umyunsang/Linear-Algebra/tree/main/Linear_Algebra/01.%20%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%ED%95%99%EC%9D%98%20%EA%B0%9C%EC%9A%94))
+### [01. Overview of Linear Algebra](https://github.com/umyunsang/Linear-Algebra/tree/main/Linear_Algebra/01.%20%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%ED%95%99%EC%9D%98%20%EA%B0%9C%EC%9A%94))
 An introduction to the fundamental concepts and significance of linear algebra. Learn about its applications and theoretical background.
 
 ### [02. Linear Equations]([https://github.com/USERNAME/REPOSITORY_NAME/tree/main/02.%20Linear%20Equations](https://github.com/umyunsang/Linear-Algebra/tree/main/Linear_Algebra/02.%20%EC%84%A0%ED%98%95%EB%B0%A9%EC%A0%95%EC%8B%9D))
