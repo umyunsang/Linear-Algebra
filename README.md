@@ -4,13 +4,13 @@ Welcome to the **Linear Algebra** repository! This repository contains comprehen
 
 ## 📚 Contents
 
-### [01. Overview of Linear Algebra](https://github.com/USERNAME/REPOSITORY_NAME/tree/main/01.%20Overview%20of%20Linear%20Algebra)
+### [01. Overview of Linear Algebra]([https://github.com/USERNAME/REPOSITORY_NAME/tree/main/01.%20Overview%20of%20Linear%20Algebra](https://github.com/umyunsang/Linear-Algebra/tree/main/Linear_Algebra/01.%20%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%ED%95%99%EC%9D%98%20%EA%B0%9C%EC%9A%94))
 An introduction to the fundamental concepts and significance of linear algebra. Learn about its applications and theoretical background.
 
-### [02. Linear Equations](https://github.com/USERNAME/REPOSITORY_NAME/tree/main/02.%20Linear%20Equations)
+### [02. Linear Equations]([https://github.com/USERNAME/REPOSITORY_NAME/tree/main/02.%20Linear%20Equations](https://github.com/umyunsang/Linear-Algebra/tree/main/Linear_Algebra/02.%20%EC%84%A0%ED%98%95%EB%B0%A9%EC%A0%95%EC%8B%9D))
 Explore the definition and solutions of linear equations. This section includes methods for solving single linear equations and systems of linear equations.
 
-### [03. Matrices](https://github.com/USERNAME/REPOSITORY_NAME/tree/main/03.%20Matrices)
+### [03. Matrices]([https://github.com/USERNAME/REPOSITORY_NAME/tree/main/03.%20Matrices](https://github.com/umyunsang/Linear-Algebra/tree/main/Linear_Algebra/03.%20%ED%96%89%EB%A0%AC))
 Learn about matrices, their definitions, operations, and various types. This section covers basic matrix operations and their applications.
 
 ### [04. Inverse Matrices](https://github.com/USERNAME/REPOSITORY_NAME/tree/main/04.%20Inverse%20Matrices)
