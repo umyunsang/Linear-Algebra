@@ -58,7 +58,7 @@ Welcome to the **Linear Algebra** repository! This collection of Python scripts 
 2. **Navigate to a Chapter Directory**
 
    ```bash
-   cd Linear_Algebra/chapter_01
+   cd Linear-Algebra/chapter_01
    ```
 
 3. **Run a Script**
