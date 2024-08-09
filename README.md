@@ -1,4 +1,3 @@
-아래는 `Linear_Algebra` 리포지토리의 `README.md` 파일을 이모티콘을 활용하여 시각적으로 매력적으로 꾸민 예시입니다. 챕터 7도 포함되어 있습니다.
 
 ---
 
@@ -13,40 +12,40 @@ Welcome to the **Linear Algebra** repository! This collection of Python scripts 
 
 ### `chapter_01/`
 - **Scripts**:
-  - `dims_check.py` 🧮: Checks dimensions of matrices and vectors.
-  - `matrix_def.py` 📐: Definitions and examples of matrices.
-  - `sum_calc.py` ➕: Calculates sums involving matrices and vectors.
+  - [`dims_check.py`](chapter_01/dims_check.py) 🧮: Checks dimensions of matrices and vectors.
+  - [`matrix_def.py`](chapter_01/matrix_def.py) 📐: Definitions and examples of matrices.
+  - [`sum_calc.py`](chapter_01/sum_calc.py) ➕: Calculates sums involving matrices and vectors.
 
 ### `chapter_02/`
 - **Scripts**:
-  - `array_init.py` 🆙: Initialization and basic operations with arrays.
-  - `gauss.py` 🔍: Implements Gaussian elimination to solve linear systems.
+  - [`array_init.py`](chapter_02/array_init.py) 🆙: Initialization and basic operations with arrays.
+  - [`gauss.py`](chapter_02/gauss.py) 🔍: Implements Gaussian elimination to solve linear systems.
 
 ### `chapter_03/`
 - **Scripts**:
-  - `matrix_ops.py` 🔢: Performs various matrix operations such as addition and multiplication.
-  - `vector_matrix.py` 📊: Operations involving vectors and matrices.
+  - [`matrix_ops.py`](chapter_03/matrix_ops.py) 🔢: Performs various matrix operations such as addition and multiplication.
+  - [`vector_matrix.py`](chapter_03/vector_matrix.py) 📊: Operations involving vectors and matrices.
 
 ### `chapter_04/`
 - **Scripts**:
-  - `matrix_inverse.py` 🔄: Calculates matrix inverses using different methods.
-  - `matrix_lu.py` 🔢: Implements LU decomposition for solving systems of equations.
+  - [`matrix_inverse.py`](chapter_04/matrix_inverse.py) 🔄: Calculates matrix inverses using different methods.
+  - [`matrix_lu.py`](chapter_04/matrix_lu.py) 🔢: Implements LU decomposition for solving systems of equations.
 
 ### `chapter_05/`
 - **Scripts**:
-  - `adjoint.py` 🔃: Computes the adjoint (adjugate) matrix.
-  - `determinant.py` 🔢: Calculates determinants of matrices.
+  - [`adjoint.py`](chapter_05/adjoint.py) 🔃: Computes the adjoint (adjugate) matrix.
+  - [`determinant.py`](chapter_05/determinant.py) 🔢: Calculates determinants of matrices.
 
 ### `chapter_06/`
 - **Scripts**:
-  - `point_to_plane.py` 📍: Calculates the distance from a point to a plane.
-  - `projection.py` 📐: Computes orthogonal projections of vectors.
-  - `vector_sum.py` ➕: Handles vector sum operations.
-  - `volume_calc.py` 📏: Calculates the volume of a parallelepiped defined by vectors.
+  - [`point_to_plane.py`](chapter_06/point_to_plane.py) 📍: Calculates the distance from a point to a plane.
+  - [`projection.py`](chapter_06/projection.py) 📐: Computes orthogonal projections of vectors.
+  - [`vector_sum.py`](chapter_06/vector_sum.py) ➕: Handles vector sum operations.
+  - [`volume_calc.py`](chapter_06/volume_calc.py) 📏: Calculates the volume of a parallelepiped defined by vectors.
 
 ### `chapter_07/`
 - **Scripts**:
-  - `matrix_rank.py` 📊: Computes the rank of matrices.
+  - [`matrix_rank.py`](chapter_07/matrix_rank.py) 📊: Computes the rank of matrices.
 
 ## 🚀 Getting Started
 
@@ -81,5 +80,3 @@ This repository is licensed under the MIT License. See the `LICENSE` file for de
 For more information and detailed notes, please check the files in the `Linear_Algebra/` directory.
 
 ---
-
-Feel free to adjust any of the content or add more details according to your needs!
