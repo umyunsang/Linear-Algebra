@@ -52,7 +52,7 @@ Welcome to the **Linear Algebra** repository! This collection of Python scripts 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/Linear_Algebra.git
+   git clone https://github.com/umyunsang/Linear-Algebra.git
    ```
 
 2. **Navigate to a Chapter Directory**
